@@ -1,6 +1,6 @@
 ![logo](https://github.com/dev28616/dev28616/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Debojyoti Mondal</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **python, sql, html, css**
+- 💬 Ask me about **python, eda, feature engineering, dbms, dsa, sql, html, css, bootstarp**
 
-- 📫 How to reach me **mondal.debojyoti17@gmail.com**
+- 📫 How to reach me **mdev44426@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PwqDJE3mZPKEINXlXvR7wQhUutuOOOQ6/view?usp=drive_link](https://drive.google.com/file/d/1PwqDJE3mZPKEINXlXvR7wQhUutuOOOQ6/view?usp=drive_link)
 
