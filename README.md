@@ -1,4 +1,4 @@
-![logo](https://github.com/dev28616/dev28616/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.jpg)
+![logo](https://github.com/dev28616/dev28616/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Debojyoti Mondal</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
