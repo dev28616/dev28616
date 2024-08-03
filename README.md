@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web development<br>🌱 I’m currently learning data science<br>💬 Ask me anything about web development
+🔭 I’m currently learning advanced machine learning algorithms and deployment techniques.<br>💬 Ask me anything about machine learning.
 
 
 ## 🌐 Socials:
