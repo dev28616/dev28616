@@ -7,7 +7,6 @@
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/debojyotimondal)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/CogitoSpace)
 
 ---
 
@@ -70,5 +69,3 @@
 
 🔢 Visitor Count  
 [![](https://visitcount.itsvg.in/api?id=dev28616&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Created with ❤️ using GPRM (https://gprm.itsvg.in) -->
